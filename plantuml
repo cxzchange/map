@@ -1,1 +1,102 @@
-http://www.plantuml.com/plantuml/uml/RLF1KjfG5Dtp5PdfHXOoCjCLNTHDlw3zWSw8bHaBCvhkGvK2alX2My4gr595iBKuKsiJao0VuxilBoj_eHTUUwS-UGi2uPnpppcvMTuqNswORrwlfmghneBOlm3tbFi1LCuXidXq84UZfsd3NCiNZGNyAvqoyDo77ewJJnNmvk0qBAeDobDbviD9YmS1DFSVaEZan8zZy7t1NAW6A1z_l9GNtbraSzz9EfOyBITVkwWZhihniF64kFdrpVnif2Od9uUoPoTX4rm7d3rH_ouO8nfvLIwLEL5h8PAF7GfBzFc-QPXPMYaPg1FVx68_g4Q3T8_pgHgyk59OJUc_7ieG7M_HOq4f8X41QmIt9WVRuFNvk0FicwgK-nQQnQ0yF9Qz8OniKNF1kGJsTqPEAt1nKLsvVmCxdqNh6jxRm9hooflfx6ATK7V0-naVzUE3RM1lyGx2bAjYoSmR6uLNQoO5qFI5NOLe3yVpi8zaQMs9pdby5YJjN_2keZA8xWIwxLjh9vjvdCbcihh6hTNury5quEpxewMbPtXoBvx3g2VgrvYZ_IKE9ZmOm8To73BfzfEjeHgW871I5RqQhTjy-xYSuDhJf9NVF6nHNYmyiUgYSKO09OejQTxK6X9HhPxer2dKNNHqV_be4zB_FMhrkOmNVBd_0000
+http://www.plantuml.com/plantuml/uml/xLZBJXj95Dtp5PQoWGKeI3CR6Cr4oMIod6WU7p1Ip0I90IdnxDiGlz-9mGGRZ1E3dO1j4XwskmtyI-XRtRtY5-QOYsfYTygDb2YhD1R6vLkdRjrpxgbkxZmD_FKayEy_2sFpSxvniTwYxAxPqIcqJptDx6tOpUPF4xx0O_-YRnnVJOpvS0s65a-Tbo5gVo9kA1PejM0VETEXwfgfwvHRTqsIrunelAPEHsIo5D41R-KFxLRxifSqEocdfDcxGUVL9d0e6xLhpyHnqAedPYM2V-6f_shXGT1Rjs_VnpLZdnVjIj8nSfHDKMfLnFP49ZCx4Bgu5F3xdip__JY0uS5hQ9v8HgYtwegYJCiqTYYpR6ihehHllT6TmX65GzS9RvxJPi4rwKABJqzzDpKzDJsyoeMM68ZsBpxgfpWmrYysbvchAw9hc6-UfYHR4bHTU1V3JgLh5PlOfJWw6wVTvUyVKBN6WzICYVJpFWibNHmdxDQgrOXDI6nN_IMvaaGAdPY6WaGN7Gl-kK4s1klzrj6MhNpTrDE0nzhEIjqfrAszH3_PZMUSCXIaX42zR2t4SPQHiR9X1XBH7B14D8kQNlQAolaeZjWgoGcKJPfwWeLBtHDEH2H2fc5yl0PIisev4TUiTuPtZgJdwVG5o-g3LW957xHDYeP5lgKGea8jiayK6b3em2fsA7J8FNdPAtjHpNGprn2tM3jW6AVGf5GRecQwlIXNNrIwPbWKJXnj0vRXh9oY2QYoH-6Ndrno91xFG1HeOOoRDx8Qyh8Nz7nXJQ-TmWrDlSfzWlr29zUIUryHfHXbSbQ-J9brKJmQCCf8IfR2Qn760vY4aHYO3I7Vl_VmrtlyoMgSKKEnTQNcl7N7K-VdF1GfJf1Zt3fBumIYTDdKQsW7T94ejT0HKfhALGPFX3z-fsP5nBgJaqo6A6nR-Zb0wKKGRMfdTz3Gp3W7KZKYAb6cWgSeru0QKIfOycZ-FL1usHkYp2ghxj6gj-x-ql_1wLkrQYcn4gBmiREvXRQYWnmEbb7M17NGyoIxBfUA3SuEvgr3Wx9fohOeNbVRl2HUFUgzavd0qgCb7-2L0Fn90JFwte05o3qerhhkSrMjEvxAnacb0qhgShROhrd5CW-EzbJffR0w-ppouEU7ly6LSEuYGKLxVJlQlntjNzluFj_qFj_mkClL8meBcHdjOYvV6NOL-PV4_u5HgBrZdfOWPUuEiwDXQ-X1qtXjL-hKJFP5c3gaJEl7gumaGqDMD3d9xsRdZE9RC25aYvFVFcvVuQLHU8gbgFtUAkz0Vv0JHX26pDsFDTwFCpUv-_5-Qf4Y_RBAK-u9pOqMnVRPX6GHq7wE5XE9Dp90gapEfLONNu4VQVDqyCuoolsHZk6yMgVgXjYlyBS05AqCfUBKFPBSycqQuX4sj7qsO9aFEx4enJmFa1bkA0YcBytLymijU7KhXdUtLiTSFOHvT__yE6HMUG3ApfLhtNoDgvHc_-y2kMEvKRvXGpHg0BMgZZkLIEGBBE5macZCXifMn7PNf9gi756lGBLcfm7o8LmA7rgDDR6TWrJjo5kxSYqGMGMqbzmXxyobkQ-W6vUVStdvznsyuNyu_m40
+
+
+@startuml
+if (是否为公开会议?) then (否)
+    if (是否为国际差?) then (否)
+        if (是否会见公司外人员?) then (否)
+            :正常提出差申请，不需要额外合规流程;
+        else (是)
+            #00EEEE:进行黑名单扫描;
+            note right
+                黑名单扫描指引
+                可以参考本空间内合规板块
+                《1.4.1.1 黑名单扫描》
+            endnote
+            if (会见人员或单位是否为黑名单?) then (否)
+                if (是否为项目指派(如5G大项目安排外场测试等)?) then (是)
+                    :不需要其他合规流程;
+                    note left
+                        只适用于不是部门立项的项目，
+                        或者项目经理不是我部成员；
+                        如果是我部同事申请并立项担任项目经理的科技类项目，
+                        应当参考“否”分支指引
+                    endnote
+                else (否)
+                    if (是否为项目相关出差？) then (是)
+                        :需要《新项目问卷》;
+                        note left
+                            在立项时通常都会填写《新项目问卷》
+                            《新》的填写可以参考本空间内合规板块
+                            《！！！！！！！！！！！！》
+                            在提交流程时，如果没有发生变更，不需要重写《新》
+                            如果有变更，需要重新请ECPOC重新签字
+                        endnote
+                    else (否)
+                    endif
+                    if (是否涉及美国原产“技术”？) then (否)
+                        #00EEEE:TS审批--！！无线产品经营部合规审批备案流程！！
+                        会签人！！！！！！！！！！！！
+                        审批人！！！！！！！！！！！！;
+                    else (是)
+                        #BFBFBF:此种情况非常少见，
+                        请和部门合规经理联系后启动流程;
+                    endif
+                endif
+            else (是)
+                :todo ;
+            endif
+        endif
+    else (是)
+        :进行黑名单扫描;
+        if (交流方是否为黑名单？) then (否)
+            if (出差地区是否为欧盟地区？) then (是)
+                :需要通过GDPR考试;
+            else (否)
+                if (是否为项目指派(如5G大项目安排外场测试等)?) then (是)
+                    :不需要其他合规流程;
+                    note left
+                        只适用于不是部门立项的项目，
+                        或者项目经理不是我部成员；
+                        如果是我部同事申请并立项担任项目经理的科技类项目，
+                        应当参考“否”分支指引
+                    endnote
+                else (否)
+                    #00EEEE:TS审批--！！无线产品经营部合规审批备案流程！！
+                    会签人！！！！！！！！！！！！
+                    审批人！！！！！！！！！！！！;
+                endif
+            endif
+        else (是)
+            :请和部门合规经理联系;
+            end
+        endif
+    endif
+else (是<合规工作只需要一人为代表完成即可>)
+    #00EEEE:黑名单扫描--扫描举办方和发起人与会前已知的参会方;
+    note right
+        黑名单扫描指引
+        可以参考本空间内合规板块《1.4.1.1 黑名单扫描》
+    endnote
+    #00EEEE:TS审批--！！无线产品经营部合规审批备案流程！！;
+    note right
+        不同的其他参会方，选择不同的审批人
+        对同一交流方就统一主题多次交流，每半年只需要提交一次
+    endnote
+    if (参会方是否有黑名单？) then (否)
+        :会签为部长、ECPOC、部门合规经理
+        审批人为BU合规经理;
+    else (是)
+        :会签人为部长、部门合规经理
+        审批人为ECPOC;
+    endif
+    if (是否有美国人参与？) then (是)
+        #00EEEE:TS审批--！！！！！对外美国人交流！！！！！
+        根据流程模板中的《决策树》自行选择会签人和审批人;
+        note right
+        对同一交流方就统一主题多次交流，每半年只需要提交一次
+    endnote
+    else (否)
+    endif
+endif
+@enduml
